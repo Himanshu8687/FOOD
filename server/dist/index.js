@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
     const foodData = [
         {
             name: "Boilded Egg",
-            price: 100ggit g,
+            price: 100,
             text: " Freshly boiled eggs served with light seasoning, rich in protein andperfect for a healthy and energetic breakfast.",
             image: "/images/egg.png",
             type: "breakfast",
